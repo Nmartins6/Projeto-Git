@@ -1,1 +1,3 @@
-This project is only to myself lean how to use Git and GitHub
+This project is only to myself learn how to use Git and GitHub
+
+*primeira alteração
